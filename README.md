@@ -1,2 +1,4 @@
 # SimpleTextEditor
-Simple Text Editor in Qt
+Простой текстовый редактор, написанный на C++ совместно с фреймворком Qt
+
+![Window Text Editor](/resource/window.png)
